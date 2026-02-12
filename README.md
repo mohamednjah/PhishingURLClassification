@@ -1,1 +1,2 @@
-# PhishingURLClassification
+# PhishingURLClassification using Self-Organizing Maps (SOM)
+This project was done as part of the Data Driven Models for System Engineering course in the University of Cagliari, it explores the use of Self-Organizing Maps (SOM), an unsupervised machine learning approach, to classify phishing and legitimate URLs. Using the UCI Phishing URL Dataset, the pipeline includes data preprocessing, feature reduction, SOM training, neuron labeling, and evaluation with multiple performance metrics. The project demonstrates how SOMs can effectively cluster high-dimensional URL features and achieve high classification accuracy while providing useful visualizations for analysis.
